@@ -11,7 +11,6 @@ Our team consists of 7 members:
 1. Georgi Isaev
 -
 
-
 2. Lora Versano
 - team work practice and how a project work
 
@@ -23,11 +22,11 @@ Our team consists of 7 members:
 -
 
 5. Teodor Georgiev
--
+- utilization of the Lego Designer Software
+- team work
 
 6. Ivelin Ivanov
 -
 
 7. Dimo Hristov
 - my expectations from this project is to learn new software in the face of Lego Mindstorm and Lego Designer
-- 
