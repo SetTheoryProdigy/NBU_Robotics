@@ -9,7 +9,7 @@ This is a project that is being done by the first year students at New Bulgarian
 Our team consists of 7 members:
 
 1. Georgi Isaev
--
+- team work and how does a project work
 
 2. Lora Versano
 - team work practice and how a project work
@@ -19,14 +19,15 @@ Our team consists of 7 members:
 - I would like to learn as a whole how to visualize and construct 3D elements
 
 4. Iskren Petrov
--
+- main focus on team work 
 
 5. Teodor Georgiev
 - utilization of the Lego Designer Software
 - team work
 
 6. Ivelin Ivanov
--
+- team work 
+- understanding the basics of Lego Designer
 
 7. Dimo Hristov
-- my expectations from this project is to learn new software in the face of Lego Mindstorm and Lego Designer
+- my expectations from this project is to learn new softwarerepresented by Lego Mindstorm and Lego Designer
