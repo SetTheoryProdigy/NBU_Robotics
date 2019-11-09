@@ -1,3 +1,5 @@
+
+![74514833_439399436758891_3060978678818144256_n](https://user-images.githubusercontent.com/44680017/68531606-c3f80380-031c-11ea-937b-3ffc61ecdbde.jpg)
 # NBU_Robotics
 
 This is a project that is being done by the first year students at New Bulgarian University. Our group has decided to conseptualize and create a Page Folding Robot. We have decided to name it X. The robot has the following characteristics:
