@@ -3,10 +3,9 @@
 # NBU_Robotics
 
 This is a project that is being done by the first year students at New Bulgarian University. Our group has decided to conseptualize and create a Page Folding Robot. We have decided to name it X. The robot has the following characteristics:
-
-### 1. Body part which is the power supply of the robot
-### 2. A holding hand which is a helping construction to hold the main hand
-### 3. A main hand which folds the pages
+### Main hand to fold the pages
+### Specific place where the given book will be left for forlding
+### Secondary hand to push the pages so the main hand could fold it
 
 Our team consists of 7 members:
 
