@@ -4,7 +4,7 @@
 
 This is a project that is being done by the first year students at New Bulgarian University. Our group has decided to conseptualize and create a Page Folding Robot. We have decided to name it X. The robot has the following characteristics:
 
-### 1. Body which is acts as a power supply to the robot
+### 1. Body part which is the power supply of the robot
 ### 2. A holding hand which is a helping construction to hold the main hand
 ### 3. A main hand which folds the pages
 
@@ -13,7 +13,7 @@ Our team consists of 7 members:
 ##### 1. Georgi Isaev
 - team work and how does a project structure work
 
-##### 2. Lora Versano
+##### 2. Lora Varsano
 - team work practice and how a project work
 
 ##### 3. Ivon Todorova
